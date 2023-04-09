@@ -1,0 +1,8 @@
+/*8.- A través del atributo list-style-image, defina un regla de estilo para asociar un icono
+definido con un imagen a una lista sin orden (ul):
+https://www.w3schools.com/cssref/pr_list-style-image.asp*/
+
+ul {
+    list-style-image: url('img/lista-de-verificacion.png');
+  
+  }
