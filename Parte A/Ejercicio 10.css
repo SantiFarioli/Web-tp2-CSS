@@ -1,0 +1,20 @@
+/*10.- Realice un estilo que permita cambiar el aspecto de la primera letra de un párrafo.
+Utilice clases para poder separar los párrafos a los que no queremos que se le aplique el
+estilo.
+*/
+
+ .Latin::first-letter{
+    color: tomato;
+}
+
+.Significado::first-letter{
+    color: blue;
+}
+
+.Explicacion::first-letter{
+    color: burlywood;
+}
+
+.Texto::first-letter{
+    color: pink;
+}
